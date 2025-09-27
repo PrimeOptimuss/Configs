@@ -1,0 +1,13 @@
+font = Adwaita Sans
+text-color = #AC4242
+background-color = #181818
+selection-color = #ffffff
+border-color = #181818
+border-width = 4
+font-size = 18
+width = 40%
+height = 60%
+prompt-text = "   : "
+corner-radius = 10
+outline-color = #AC4242
+result-spacing = 10

@@ -1,0 +1,61 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": {
+    "type": "auto",
+    "source": "/home/Prime/Downloads/transformers2",
+    "color": {
+      "1":"red"
+    }, 
+    "padding": {
+      "left": 4,
+      "right": 4,
+      "top": 1
+    }
+   },
+
+   "display": {
+	   "brightColor": true,
+    "separator": ": ",
+    "color": {
+        "keys": "red",
+        "title": "red"
+    },
+    "key": {
+        "type": "both"
+    },
+    "bar": {
+        "width": 10,
+        "char": {
+            "elapsed": "■",
+            "total": "-"
+        }
+    },
+    "percent": {
+        "type": 2,
+        "color": {
+            "green": "green",
+            "yellow": "light_yellow",
+            "red": "light_red"
+        }
+    }
+},
+ 
+  "modules": [	
+   "break",	  
+   "title",
+   "separator",
+   "os",
+   "kernel",
+   "uptime",
+   "packages",
+   "shell",
+   "display",
+   "font",
+   "terminal",
+   "cpu",
+   "gpu",
+   "memory",
+   "swap",
+   "disk",
+     ]
+}
