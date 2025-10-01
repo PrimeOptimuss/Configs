@@ -1,0 +1,15 @@
+colors_enabled = yes
+current_item_prefix = "$(red)$r"
+main_window_color = red
+progressbar_color = white
+progressbar_elapsed_color = red
+statusbar_color = white
+header_window_color = white
+volume_color = red
+empty_tag_color = red 
+now_playing_prefix = "$r"
+now_playing_suffix = "$/r"
+song_columns_list_format = "(40)[red]{t|f} (6f)[red]{l}"
+song_list_format = "{$2%a$2 - }{$2%t$2}|{$0%F$2} - {$2(%l)$2}"
+song_library_format = "{$2%F$2}"
+

@@ -48,9 +48,8 @@
 	"show-passive-items": true,
 	"show-title": false,
 	"expand": false,
-            "icons": {
-           "blueman": "bluetooth"
-         }
+	"icons": {
+    }
     },
     "clock": {
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
@@ -77,16 +76,14 @@
         "format": "{volume}% {icon}",  
 	"format-bluetooth": "{volume}% {icon}",
         "format-bluetooth-muted": " {icon} {format_source}",
-        "format-muted": " {format_source}",
-        "format-source": "{volume}% ",
-        "format-source-muted": "",
+        "format-muted": " ",
         "format-icons": {
             "headphone": "",
             "bluetooth": "󱡏",
             "headset": "󱡏",
             "default": ["", "", ""]
         },
-        "on-click": "pavucontrol"
+        "on-click": "~/.config/waybar/scripts/audio-pulsemixer.sh"
     
    }
 }
