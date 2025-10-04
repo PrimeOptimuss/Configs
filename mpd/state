@@ -1,7 +1,7 @@
 sw_volume: 100
 audio_device_state:1:default detected output
 state: stop
-current: 30
+current: 34
 random: 0
 repeat: 0
 single: 0
@@ -38,9 +38,9 @@ playlist_begin
 24:Wisp - Your face (Extended Version).mp3
 25:Young - Vacations (Official Lyric Video).mp3
 26:Venger (feat. Greta Link).mp3
-27:Three Days Grace - Animal I Have Become.mp3
-28:Papercut.mp3
-29:Red Hot Chili Peppers - Californication (Highest Quality).mp3
+27:Red Hot Chili Peppers - Californication (Highest Quality).mp3
+28:Three Days Grace - Animal I Have Become.mp3
+29:Papercut.mp3
 30:Nothing Else Matters (Remastered).mp3
 31:Nirvana - Drain You (Audio).mp3
 32:Get Scared Sarcasm Lyric Video Official.mp3
