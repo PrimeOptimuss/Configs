@@ -44,8 +44,11 @@
 	"on-click": "~/.config/waybar/scripts/mullvad-toggle.sh"
     },
     "bluetooth": {
+	"format": "{icon}",
 	"format-on": " 󰂱 ",
 	"format-off": " 󰂲 ",
+	"format-no-controller": " 󰂲 ",
+	"tooltip": false,
 	"on-click": "alacritty -e bluetui"
     },
     "tray": {
