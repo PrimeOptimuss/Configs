@@ -1,149 +1,41 @@
-2025-09-29T17:26:40 exception: Failed to open "/home/Prime/.config/mpd/state": No such file or directory
-2025-09-29T17:40:22 update: added /Deftones - Be Quiet And Drive (Far Away) (Official Video) [HD Remaster].mp3
-2025-09-29T17:55:20 exception: Failed to open audio output
-2025-09-29T17:58:05 player: played "Deftones - Be Quiet And Drive (Far Away) (Official Video) [HD Remaster].mp3"
-2025-09-29T18:02:00 player: played "Deftones - Be Quiet And Drive (Far Away) (Official Video) [HD Remaster].mp3"
-2025-09-29T18:04:32 update: added /Young - Vacations (Official Lyric Video).mp3
-2025-09-29T18:04:32 update: added /Red Hot Chili Peppers - Californication (Highest Quality).mp3
-2025-09-29T18:04:32 update: added /Nirvana - Drain You (Audio).mp3
-2025-09-29T18:04:32 update: added /Nothing Else Matters (Remastered).mp3
-2025-09-29T18:04:32 update: added /Papercut.mp3
-2025-09-29T18:04:32 update: added /Get Scared Sarcasm Lyric Video Official.mp3
-2025-09-29T18:04:32 update: added /Three Days Grace - Animal I Have Become.mp3
-2025-09-29T18:04:32 update: added /Venger (feat. Greta Link).mp3
-2025-09-29T18:04:32 update: added /Bury the Light.mp3
-2025-09-29T18:07:09 player: played "Bury the Light.mp3"
-2025-09-29T18:07:35 player: played "Bury the Light.mp3"
-2025-09-29T18:13:50 player: played "Get Scared Sarcasm Lyric Video Official.mp3"
-2025-09-29T18:17:34 player: played "Nirvana - Drain You (Audio).mp3"
-2025-09-29T18:24:02 player: played "Nothing Else Matters (Remastered).mp3"
-2025-09-29T18:27:09 player: played "Papercut.mp3"
-2025-09-29T18:28:34 player: played "Red Hot Chili Peppers - Californication (Highest Quality).mp3"
-2025-09-29T18:33:16 player: played "Red Hot Chili Peppers - Californication (Highest Quality).mp3"
-2025-09-29T18:37:08 player: played "Three Days Grace - Animal I Have Become.mp3"
-2025-09-29T18:42:16 player: played "Venger (feat. Greta Link).mp3"
-2025-09-29T18:45:26 player: played "Young - Vacations (Official Lyric Video).mp3"
-2025-09-29T19:09:29 player: played "Three Days Grace - Animal I Have Become.mp3"
-2025-09-29T19:11:21 player: played "Three Days Grace - Animal I Have Become.mp3"
-2025-09-29T19:14:09 player: played "Three Days Grace - Animal I Have Become.mp3"
-2025-09-29T19:19:17 player: played "Venger (feat. Greta Link).mp3"
-2025-09-29T19:22:32 player: played "Papercut.mp3"
-2025-09-29T19:27:54 player: played "Red Hot Chili Peppers - Californication (Highest Quality).mp3"
-2025-09-29T19:31:46 player: played "Three Days Grace - Animal I Have Become.mp3"
-2025-09-29T19:36:54 player: played "Venger (feat. Greta Link).mp3"
-2025-09-29T19:40:03 player: played "Young - Vacations (Official Lyric Video).mp3"
-2025-09-29T19:46:01 player: played "Red Hot Chili Peppers - Californication (Highest Quality).mp3"
-2025-09-29T19:49:52 player: played "Three Days Grace - Animal I Have Become.mp3"
-2025-09-29T19:55:01 player: played "Venger (feat. Greta Link).mp3"
-2025-09-29T19:58:10 player: played "Young - Vacations (Official Lyric Video).mp3"
-2025-09-29T20:56:23 update: added /Clocks.mp3
-2025-09-29T20:56:23 update: added /Faint.mp3
-2025-09-29T20:56:23 update: added /505.mp3
-2025-09-29T20:56:23 update: added /Fade To Black (Remastered).mp3
-2025-09-29T20:56:23 update: added /it's ok, you're ok.mp3
-2025-09-29T20:56:23 update: added /Wisp - Your face (Extended Version).mp3
-2025-09-29T20:56:23 update: added /Chamber Of Reflection.mp3
-2025-09-29T20:56:23 update: added /Deadman Wonderland Full Intro Song.mp3
-2025-09-29T20:56:23 update: added /In The End [Official HD Music Video] - Linkin Park.mp3
-2025-09-29T20:56:23 update: added /Muse- Hysteria.mp3
-2025-09-29T20:56:23 update: added /The Drums - Money.mp3
-2025-09-29T20:56:23 update: added /Numb (Official Music Video) [4K UPGRADE] Linkin Park.mp3
-2025-09-29T20:56:23 update: added /No Doubt - Don't Speak.mp3
-2025-09-29T20:56:23 update: added /The Neighbourhood - Sweater Weather (Official Video).mp3
-2025-09-29T20:56:23 update: added /Evanescence - Bring Me to Life.mp3
-2025-09-29T20:56:23 update: added /The Neighbourhood - Wires (Official Audio).mp3
-2025-09-29T20:56:23 update: added /One (Remastered).mp3
-2025-09-29T20:56:23 update: added /The Verve - Bitter Sweet Symphony.mp3
-2025-09-29T20:56:23 update: added /The Unforgiven (Remastered).mp3
-2025-09-29T20:56:23 update: added /Dandy Warhols - Bohemian like you LYRICS.mp3
-2025-09-29T20:56:23 update: added /Evanescence - Afterlife.mp3
-2025-09-29T20:56:23 update: added /ThxSoMch - SPIT IN MY FACE! (Official Audio).mp3
-2025-09-29T20:56:23 update: added /Linkin Park - Crawling (Audio).mp3
-2025-09-29T20:56:23 update: added /Starset - My Demons (Official Audio).mp3
-2025-09-29T20:56:23 update: added /Stromae, Pomme - Ma Meilleure Ennemie (from Arcane Season 2) [Official Visualizer].mp3
-2025-09-29T20:56:23 update: added /Fire in Your Eyes (Ay Ay).mp3
-2025-09-29T20:56:41 player: played "505.mp3"
-2025-09-30T21:00:19 player: played "Chamber Of Reflection.mp3"
-2025-09-30T21:05:27 player: played "Clocks.mp3"
-2025-09-30T21:08:40 player: played "Dandy Warhols - Bohemian like you LYRICS.mp3"
-2025-09-30T21:12:20 player: played "Dandy Warhols - Bohemian like you LYRICS.mp3"
-2025-09-30T21:15:42 player: played "Dandy Warhols - Bohemian like you LYRICS.mp3"
-2025-09-30T21:27:07 player: played "Starset - My Demons (Official Audio).mp3"
-2025-09-30T21:38:40 player: played "Get Scared Sarcasm Lyric Video Official.mp3"
-2025-09-30T21:46:15 player: played "Red Hot Chili Peppers - Californication (Highest Quality).mp3"
-2025-09-30T21:53:16 player: played "Starset - My Demons (Official Audio).mp3"
-2025-09-30T22:00:08 player: played "Papercut.mp3"
-2025-09-30T22:04:21 player: played "Fire in Your Eyes (Ay Ay).mp3"
-2025-09-30T22:08:00 player: played "In The End [Official HD Music Video] - Linkin Park.mp3"
-2025-09-30T22:11:25 player: played "Dandy Warhols - Bohemian like you LYRICS.mp3"
-2025-09-30T22:15:13 player: played "Dandy Warhols - Bohemian like you LYRICS.mp3"
-2025-09-30T22:21:33 player: played "Dandy Warhols - Bohemian like you LYRICS.mp3"
-2025-09-30T22:29:16 player: played "Dandy Warhols - Bohemian like you LYRICS.mp3"
-2025-09-30T22:33:43 player: played "Deadman Wonderland Full Intro Song.mp3"
-2025-09-30T22:40:32 player: played "Evanescence - Afterlife.mp3"
-2025-09-30T22:44:29 player: played "Evanescence - Bring Me to Life.mp3"
-2025-09-30T22:53:32 player: played "Three Days Grace - Animal I Have Become.mp3"
-2025-09-30T22:56:38 player: played "Papercut.mp3"
-2025-09-30T23:02:00 player: played "Red Hot Chili Peppers - Californication (Highest Quality).mp3"
-2025-09-30T23:02:14 player: played "Nothing Else Matters (Remastered).mp3"
-2025-10-01T14:08:44 player: played "Dandy Warhols - Bohemian like you LYRICS.mp3"
-2025-10-01T14:13:11 player: played "Deadman Wonderland Full Intro Song.mp3"
-2025-10-01T14:17:55 player: played "Fire in Your Eyes (Ay Ay).mp3"
-2025-10-01T14:22:19 player: played "No Doubt - Don't Speak.mp3"
-2025-10-01T14:26:27 player: played "Starset - My Demons (Official Audio).mp3"
-2025-10-01T14:28:55 player: played "Stromae, Pomme - Ma Meilleure Ennemie (from Arcane Season 2) [Official Visualizer].mp3"
-2025-10-01T14:31:15 player: played "Papercut.mp3"
-2025-10-01T19:05:58 player: played "Get Scared Sarcasm Lyric Video Official.mp3"
-2025-10-01T19:09:29 player: played "Deftones - Be Quiet And Drive (Far Away) (Official Video) [HD Remaster].mp3"
-2025-10-01T19:19:10 player: played "Bury the Light.mp3"
-2025-10-01T19:23:24 player: played "505.mp3"
-2025-10-01T19:28:43 player: played "Fire in Your Eyes (Ay Ay).mp3"
-2025-10-01T19:32:50 player: played "Starset - My Demons (Official Audio).mp3"
-2025-10-01T19:35:18 player: played "Stromae, Pomme - Ma Meilleure Ennemie (from Arcane Season 2) [Official Visualizer].mp3"
-2025-10-01T19:39:21 player: played "The Drums - Money.mp3"
-2025-10-01T19:43:12 output: Failed to play on "default detected output" (pulse): disconnected
-2025-10-01T19:43:12 player: played "The Neighbourhood - Sweater Weather (Official Video).mp3"
-2025-10-02T00:00:26 player: played "The Neighbourhood - Sweater Weather (Official Video).mp3"
-2025-10-02T19:47:25 player: played "The Neighbourhood - Wires (Official Audio).mp3"
-2025-10-02T19:53:52 player: played "The Unforgiven (Remastered).mp3"
-2025-10-02T20:02:55 player: played "Red Hot Chili Peppers - Californication (Highest Quality).mp3"
-2025-10-02T20:09:24 player: played "Nothing Else Matters (Remastered).mp3"
-2025-10-02T20:16:25 player: played "Get Scared Sarcasm Lyric Video Official.mp3"
-2025-10-02T20:19:56 player: played "Deftones - Be Quiet And Drive (Far Away) (Official Video) [HD Remaster].mp3"
-2025-10-02T20:23:17 player: played "Bury the Light.mp3"
-2025-10-03T16:13:45 player: played "Red Hot Chili Peppers - Californication (Highest Quality).mp3"
-2025-10-03T16:16:23 player: played "Nothing Else Matters (Remastered).mp3"
-2025-10-03T22:54:41 player: played "Red Hot Chili Peppers - Californication (Highest Quality).mp3"
-2025-10-03T22:54:46 player: played "Nothing Else Matters (Remastered).mp3"
-2025-10-04T08:38:54 player: played "Red Hot Chili Peppers - Californication (Highest Quality).mp3"
-2025-10-04T08:42:46 player: played "Three Days Grace - Animal I Have Become.mp3"
-2025-10-04T08:45:52 player: played "Papercut.mp3"
-2025-10-04T08:52:21 player: played "Nothing Else Matters (Remastered).mp3"
-2025-10-04T08:56:05 player: played "Nirvana - Drain You (Audio).mp3"
-2025-10-04T08:59:23 player: played "Get Scared Sarcasm Lyric Video Official.mp3"
-2025-10-04T09:02:54 player: played "Deftones - Be Quiet And Drive (Far Away) (Official Video) [HD Remaster].mp3"
-2025-10-04T09:12:35 player: played "Bury the Light.mp3"
-2025-10-04T09:16:49 player: played "505.mp3"
-2025-10-04T09:21:18 player: played "Fire in Your Eyes (Ay Ay).mp3"
-2025-10-04T09:23:23 player: played "In The End [Official HD Music Video] - Linkin Park.mp3"
-2025-10-04T10:47:03 player: played "No Doubt - Don't Speak.mp3"
-2025-10-04T10:50:10 player: played "Numb (Official Music Video) [4K UPGRADE] Linkin Park.mp3"
-2025-10-04T10:59:50 player: played "Starset - My Demons (Official Audio).mp3"
-2025-10-04T11:02:18 player: played "Stromae, Pomme - Ma Meilleure Ennemie (from Arcane Season 2) [Official Visualizer].mp3"
-2025-10-04T11:06:22 player: played "The Drums - Money.mp3"
-2025-10-04T11:10:34 player: played "The Neighbourhood - Sweater Weather (Official Video).mp3"
-2025-10-04T11:13:47 player: played "The Neighbourhood - Wires (Official Audio).mp3"
-2025-10-04T11:20:15 player: played "The Unforgiven (Remastered).mp3"
-2025-10-04T11:24:50 player: played "The Verve - Bitter Sweet Symphony.mp3"
-2025-10-04T11:27:18 player: played "ThxSoMch - SPIT IN MY FACE! (Official Audio).mp3"
-2025-10-04T11:34:28 player: played "Wisp - Your face (Extended Version).mp3"
-2025-10-04T11:37:38 player: played "Young - Vacations (Official Lyric Video).mp3"
-2025-10-04T11:42:46 player: played "Venger (feat. Greta Link).mp3"
-2025-10-04T11:48:08 player: played "Red Hot Chili Peppers - Californication (Highest Quality).mp3"
-2025-10-04T11:52:00 player: played "Three Days Grace - Animal I Have Become.mp3"
-2025-10-04T11:55:06 player: played "Papercut.mp3"
-2025-10-04T12:01:34 player: played "Nothing Else Matters (Remastered).mp3"
-2025-10-04T12:05:18 player: played "Nirvana - Drain You (Audio).mp3"
-2025-10-04T12:08:37 player: played "Get Scared Sarcasm Lyric Video Official.mp3"
-2025-10-04T12:12:08 player: played "Deftones - Be Quiet And Drive (Far Away) (Official Video) [HD Remaster].mp3"
-2025-10-04T12:16:24 player: played "Bury the Light.mp3"
+2025-10-11T10:01:33 exception: Failed to open "/home/Prime/.config/mpd/state": No such file or directory
+2025-10-11T10:01:33 update: added /Faint.mp3
+2025-10-11T10:01:33 update: added /Bury the Light.mp3
+2025-10-11T10:01:33 update: added /Wisp - Your face (Extended Version).mp3
+2025-10-11T10:01:33 update: added /505.mp3
+2025-10-11T10:01:33 update: added /Nirvana - Drain You (Audio).mp3
+2025-10-11T10:01:33 update: added /No Doubt - Don't Speak.mp3
+2025-10-11T10:01:33 update: added /Muse- Hysteria.mp3
+2025-10-11T10:01:33 update: added /Dandy Warhols - Bohemian like you LYRICS.mp3
+2025-10-11T10:01:33 update: added /Evanescence - Bring Me to Life.mp3
+2025-10-11T10:01:33 update: added /Numb (Official Music Video) [4K UPGRADE] Linkin Park.mp3
+2025-10-11T10:01:33 update: added /Young - Vacations (Official Lyric Video).mp3
+2025-10-11T10:01:33 update: added /Fade To Black (Remastered).mp3
+2025-10-11T10:01:33 update: added /One (Remastered).mp3
+2025-10-11T10:01:33 update: added /Evanescence - Afterlife.mp3
+2025-10-11T10:01:33 update: added /The Drums - Money.mp3
+2025-10-11T10:01:33 update: added /Clocks.mp3
+2025-10-11T10:01:33 update: added /Nothing Else Matters (Remastered).mp3
+2025-10-11T10:01:33 update: added /Fire in Your Eyes (Ay Ay).mp3
+2025-10-11T10:01:33 update: added /Venger (feat. Greta Link).mp3
+2025-10-11T10:01:33 update: added /The Verve - Bitter Sweet Symphony.mp3
+2025-10-11T10:01:33 update: added /Red Hot Chili Peppers - Californication (Highest Quality).mp3
+2025-10-11T10:01:33 update: added /Get Scared Sarcasm Lyric Video Official.mp3
+2025-10-11T10:01:33 update: added /The Neighbourhood - Sweater Weather (Official Video).mp3
+2025-10-11T10:01:33 update: added /it's ok, you're ok.mp3
+2025-10-11T10:01:33 update: added /Deadman Wonderland Full Intro Song.mp3
+2025-10-11T10:01:33 update: added /Papercut.mp3
+2025-10-11T10:01:33 update: added /Stromae, Pomme - Ma Meilleure Ennemie (from Arcane Season 2) [Official Visualizer].mp3
+2025-10-11T10:01:33 update: added /Three Days Grace - Animal I Have Become.mp3
+2025-10-11T10:01:33 update: added /The Unforgiven (Remastered).mp3
+2025-10-11T10:01:33 update: added /Chamber Of Reflection.mp3
+2025-10-11T10:01:33 update: added /Starset - My Demons (Official Audio).mp3
+2025-10-11T10:01:33 update: added /ThxSoMch - SPIT IN MY FACE! (Official Audio).mp3
+2025-10-11T10:01:33 update: added /In The End [Official HD Music Video] - Linkin Park.mp3
+2025-10-11T10:01:33 update: added /Linkin Park - Crawling (Audio).mp3
+2025-10-11T10:01:33 update: added /Deftones - Be Quiet And Drive (Far Away) (Official Video) [HD Remaster].mp3
+2025-10-11T10:01:33 update: added /The Neighbourhood - Wires (Official Audio).mp3
+2025-10-11T10:10:35 exception: No such directory
+2025-10-11T10:10:41 exception: No such directory
+2025-10-11T10:12:25 exception: No such directory
+2025-10-11T10:12:53 exception: Access to local files via TCP is not allowed

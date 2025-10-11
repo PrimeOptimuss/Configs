@@ -75,7 +75,6 @@
     },
     "network": {
         "format-wifi": "󰤢 ",
-        "format-ethernet": "{ipaddr}/{cidr} ",
         "format-disconnected": "󰤫 ",
 	"on-click": "alacritty -e nmtui"
     },

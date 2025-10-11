@@ -1,7 +1,7 @@
 sw_volume: 100
-audio_device_state:1:default detected output
+audio_device_state:1:PulseAudio Output
 state: stop
-current: 34
+current: 0
 random: 0
 repeat: 0
 single: 0
@@ -11,40 +11,40 @@ mixrampdb: 0
 mixrampdelay: -1
 lastloadedplaylist: 
 playlist_begin
-0:Chamber Of Reflection.mp3
-1:Clocks.mp3
-2:Dandy Warhols - Bohemian like you LYRICS.mp3
-3:Deadman Wonderland Full Intro Song.mp3
-4:Evanescence - Afterlife.mp3
-5:Evanescence - Bring Me to Life.mp3
-6:Fade To Black (Remastered).mp3
-7:Faint.mp3
-8:Fire in Your Eyes (Ay Ay).mp3
-9:In The End [Official HD Music Video] - Linkin Park.mp3
-10:it's ok, you're ok.mp3
-11:Linkin Park - Crawling (Audio).mp3
-12:Muse- Hysteria.mp3
-13:No Doubt - Don't Speak.mp3
-14:Numb (Official Music Video) [4K UPGRADE] Linkin Park.mp3
-15:One (Remastered).mp3
-16:Starset - My Demons (Official Audio).mp3
-17:Stromae, Pomme - Ma Meilleure Ennemie (from Arcane Season 2) [Official Visualizer].mp3
-18:The Drums - Money.mp3
-19:The Neighbourhood - Sweater Weather (Official Video).mp3
-20:The Neighbourhood - Wires (Official Audio).mp3
-21:The Unforgiven (Remastered).mp3
-22:The Verve - Bitter Sweet Symphony.mp3
-23:ThxSoMch - SPIT IN MY FACE! (Official Audio).mp3
-24:Wisp - Your face (Extended Version).mp3
-25:Young - Vacations (Official Lyric Video).mp3
-26:Venger (feat. Greta Link).mp3
-27:Red Hot Chili Peppers - Californication (Highest Quality).mp3
-28:Three Days Grace - Animal I Have Become.mp3
-29:Papercut.mp3
-30:Nothing Else Matters (Remastered).mp3
-31:Nirvana - Drain You (Audio).mp3
-32:Get Scared Sarcasm Lyric Video Official.mp3
-33:Deftones - Be Quiet And Drive (Far Away) (Official Video) [HD Remaster].mp3
-34:Bury the Light.mp3
-35:505.mp3
+0:505.mp3
+1:Bury the Light.mp3
+2:Chamber Of Reflection.mp3
+3:Clocks.mp3
+4:Dandy Warhols - Bohemian like you LYRICS.mp3
+5:Deadman Wonderland Full Intro Song.mp3
+6:Deftones - Be Quiet And Drive (Far Away) (Official Video) [HD Remaster].mp3
+7:Evanescence - Afterlife.mp3
+8:Evanescence - Bring Me to Life.mp3
+9:Fade To Black (Remastered).mp3
+10:Faint.mp3
+11:Fire in Your Eyes (Ay Ay).mp3
+12:Get Scared Sarcasm Lyric Video Official.mp3
+13:In The End [Official HD Music Video] - Linkin Park.mp3
+14:it's ok, you're ok.mp3
+15:Linkin Park - Crawling (Audio).mp3
+16:Muse- Hysteria.mp3
+17:Nirvana - Drain You (Audio).mp3
+18:No Doubt - Don't Speak.mp3
+19:Nothing Else Matters (Remastered).mp3
+20:Numb (Official Music Video) [4K UPGRADE] Linkin Park.mp3
+21:One (Remastered).mp3
+22:Papercut.mp3
+23:Red Hot Chili Peppers - Californication (Highest Quality).mp3
+24:Starset - My Demons (Official Audio).mp3
+25:Stromae, Pomme - Ma Meilleure Ennemie (from Arcane Season 2) [Official Visualizer].mp3
+26:The Drums - Money.mp3
+27:The Neighbourhood - Sweater Weather (Official Video).mp3
+28:The Neighbourhood - Wires (Official Audio).mp3
+29:The Unforgiven (Remastered).mp3
+30:The Verve - Bitter Sweet Symphony.mp3
+31:Three Days Grace - Animal I Have Become.mp3
+32:ThxSoMch - SPIT IN MY FACE! (Official Audio).mp3
+33:Venger (feat. Greta Link).mp3
+34:Wisp - Your face (Extended Version).mp3
+35:Young - Vacations (Official Lyric Video).mp3
 playlist_end
