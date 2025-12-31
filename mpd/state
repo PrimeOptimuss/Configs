@@ -1,7 +1,8 @@
-sw_volume: 100
+sw_volume: 36
 audio_device_state:1:PulseAudio Output
-state: stop
-current: 0
+state: play
+current: 10
+time: 202.659
 random: 0
 repeat: 0
 single: 0
@@ -11,40 +12,80 @@ mixrampdb: 0
 mixrampdelay: -1
 lastloadedplaylist: 
 playlist_begin
-0:505.mp3
-1:Bury the Light.mp3
-2:Chamber Of Reflection.mp3
-3:Clocks.mp3
-4:Dandy Warhols - Bohemian like you LYRICS.mp3
-5:Deadman Wonderland Full Intro Song.mp3
-6:Deftones - Be Quiet And Drive (Far Away) (Official Video) [HD Remaster].mp3
-7:Evanescence - Afterlife.mp3
-8:Evanescence - Bring Me to Life.mp3
-9:Fade To Black (Remastered).mp3
-10:Faint.mp3
-11:Fire in Your Eyes (Ay Ay).mp3
-12:Get Scared Sarcasm Lyric Video Official.mp3
-13:In The End [Official HD Music Video] - Linkin Park.mp3
-14:it's ok, you're ok.mp3
-15:Linkin Park - Crawling (Audio).mp3
-16:Muse- Hysteria.mp3
-17:Nirvana - Drain You (Audio).mp3
-18:No Doubt - Don't Speak.mp3
-19:Nothing Else Matters (Remastered).mp3
-20:Numb (Official Music Video) [4K UPGRADE] Linkin Park.mp3
-21:One (Remastered).mp3
-22:Papercut.mp3
-23:Red Hot Chili Peppers - Californication (Highest Quality).mp3
-24:Starset - My Demons (Official Audio).mp3
-25:Stromae, Pomme - Ma Meilleure Ennemie (from Arcane Season 2) [Official Visualizer].mp3
-26:The Drums - Money.mp3
-27:The Neighbourhood - Sweater Weather (Official Video).mp3
-28:The Neighbourhood - Wires (Official Audio).mp3
-29:The Unforgiven (Remastered).mp3
-30:The Verve - Bitter Sweet Symphony.mp3
-31:Three Days Grace - Animal I Have Become.mp3
-32:ThxSoMch - SPIT IN MY FACE! (Official Audio).mp3
-33:Venger (feat. Greta Link).mp3
-34:Wisp - Your face (Extended Version).mp3
-35:Young - Vacations (Official Lyric Video).mp3
+0:(FREE) Alternative Rock x Indie Rock x Grunge Type Beat - Death Note (prod. yusei x ydd matt).mp3
+1:$UICIDEBOY$ - ANTARCTICA (Lyric Video).mp3
+2:3 Doors Down - Kryptonite (Official Video).mp3
+3:505.mp3
+4:As We Fall.mp3
+5:Brianstorm.mp3
+6:Bury the Light.mp3
+7:Casey Edwards & Victor Borba  Fire Inside [Official Audio].mp3
+8:Chamber Of Reflection.mp3
+9:Change (In the House of Flies).mp3
+10:Chikoi The Maid - Pretendet.mp3
+11:Chop Suey!.mp3
+12:CLANN - I Hold You.mp3
+13:Clocks.mp3
+14:Deadman Wonderland Full Intro Song.mp3
+15:Deftones - Be Quiet And Drive (Far Away) (Official Video) [HD Remaster].mp3
+16:Dorei The Maid - One Pretty Summer Day I Died.mp3
+17:Enter Sandman (Remastered).mp3
+18:Evanescence - Afterlife.mp3
+19:Evanescence - Bring Me to Life.mp3
+20:Fade To Black (Remastered).mp3
+21:Faint.mp3
+22:Fire in Your Eyes (Ay Ay).mp3
+23:Get Scared Sarcasm Lyric Video Official.mp3
+24:Glass Animals - Heat Waves (Official Video).mp3
+25:haroinfatherlonely nights lyrics.mp3
+26:I Don't Care - VIOLENT VIRA.mp3
+27:In And Out Of Love.mp3
+28:In The End [Official HD Music Video] - Linkin Park.mp3
+29:it's ok, you're ok.mp3
+30:K-ON! - Hold On To Your Love [EXTENDED].mp3
+31:Led Zeppelin - Stairway To Heaven (NOT LIVE) (Perfect Audio).mp3
+32:Linkin Park - Crawling (Audio).mp3
+33:Linkin Park - Somewhere I Belong (Audio).mp3
+34:Little Lies.mp3
+35:Livingroom, but with a small change (Chainsaw Man OST).mp3
+36:Lovers From The Past.mp3
+37:Metallica_ One (Jammin' Version) (Official Music Video).mp3
+38:Money Trees.mp3
+39:Mother Mother - Hayloft.mp3
+40:Muse- Hysteria.mp3
+41:NBSPLV - The Lost Soul Down.mp3
+42:Nirvana - Drain You (Audio).mp3
+43:Nirvana - Heart-Shaped Box (Official Music Video).mp3
+44:Nirvana - In Bloom.mp3
+45:Nirvana - Polly (Audio).mp3
+46:Nothing Else Matters (Remastered).mp3
+47:Numb (Official Music Video) [4K UPGRADE]  Linkin Park.mp3
+48:Papercut.mp3
+49:Red Hot Chili Peppers - Californication (Highest Quality).mp3
+50:SIDEWALKS AND SKELETONS x CASHFORGOLD - ETERNAL REST.mp3
+51:Soccer Mommy - Your Dog (Official Video).mp3
+52:Stromae, Pomme - Ma Meilleure Ennemie (from Arcane Season 2) [Official Visualizer].mp3
+53:Surf Curse - Freaks [Official Audio].mp3
+54:Swing Lynn.mp3
+55:System of a Down - Aerials.mp3
+56:Teddy Picker.mp3
+57:The Drums - Money.mp3
+58:The Love I Lost.mp3
+59:The Neighbourhood - Sweater Weather (Official Video).mp3
+60:The Neighbourhood - Wires (Official Audio).mp3
+61:The Perfect Girl.mp3
+62:The Unforgiven (Remastered).mp3
+63:The Verve - Bitter Sweet Symphony.mp3
+64:Three Days Grace - Animal I Have Become.mp3
+65:ThxSoMch - SPIT IN MY FACE! (Official Audio).mp3
+66:Toxicity.mp3
+67:VIOLENT VIRA - Burn Me With A Bible (Official Music Video).mp3
+68:Violent Vira - Saccharine (Official Video).mp3
+69:Violent Vira - Tarantula Girl lyrics.mp3
+70:Vngel - Flâneur.mp3
+71:Warsongs_ Piercing Light (Mako Remix)  Music - League of Legends.mp3
+72:What I've Done (Official Music Video) [4K Upgrade] - Linkin Park.mp3
+73:Wisp - Your face (Extended Version).mp3
+74:Young - Vacations (Official Lyric Video).mp3
+75:Tonight (demo).mp3
 playlist_end
