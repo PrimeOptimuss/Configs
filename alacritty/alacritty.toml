@@ -2,5 +2,8 @@
 cursor = "#A84242"
 
 [font]
+
+normal = { family = "FiraCodeNerdFont", style = "Mono" }
+
 size = 11
 
