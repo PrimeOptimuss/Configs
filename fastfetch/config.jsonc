@@ -2,7 +2,7 @@
   "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
   "logo": {
     "type": "auto",
-    "source": "/home/Prime/Downloads/transformers",
+    "source": "/home/prime/Downloads/transformers",
     "color": {
       "1":"red"
     }, 
@@ -41,7 +41,8 @@
 },
  
   "modules": [	
-   "break",	  
+   "break",
+   "break",   
    "title",
    "separator",
    "os",
@@ -55,7 +56,6 @@
    "cpu",
    "gpu",
    "memory",
-   "swap",
    "disk"
    ]
 }

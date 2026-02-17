@@ -20,10 +20,6 @@
 	"custom/seperator",
         "bluetooth",
 	"custom/seperator",
-        "battery",
-	"custom/seperator",
-        "backlight",
-	"custom/seperator",
         "tray"
     ],
      "hyprland/workspaces": {
@@ -63,19 +59,10 @@
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
         "format-alt": "{:%Y-%m-%d}"
     },
-    "backlight": {
-        "format": "{percent}% {icon}",
-        "format-icons": ["", "", "", "", "", "", "", "", ""]
-    },
-    "battery": {
-        "format": "{capacity}% {icon}",
-        "format-full": "{capacity}% {icon}",
-        "format-charging": "{capacity}% 󰢜",
-        "format-icons": ["", "", "", "", ""]
-    },
     "network": {
         "format-wifi": "󰤢 ",
         "format-disconnected": "󰤫 ",
+	"format-ethernet": " ",
 	"on-click": "alacritty -e nmtui"
     },
     "pulseaudio": {
