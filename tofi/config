@@ -1,5 +1,5 @@
 font = Adwaita Sans
-text-color = #AC4242
+text-color = #e96f75
 background-color = #181818
 selection-color = #ffffff
 border-color = #181818
@@ -8,6 +8,6 @@ font-size = 18
 width = 55%
 height = 50%
 corner-radius = 10
-outline-color = #AC4242
+outline-color = #e96f75
 result-spacing = 10
 prompt-text = "   : "
